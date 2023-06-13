@@ -1,0 +1,10 @@
+* multival-plist
+
+Property List stores multiple values per one key.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/multival-plist.git   |
+| commit  | 7d34062  |
+| systems | multival-plist |
+|---------+-------------------------------------------|
+
